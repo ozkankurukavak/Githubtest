@@ -1,1 +1,2 @@
 feat branchteyiz
+feat branch için 2. satır kod yazıldı
