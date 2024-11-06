@@ -1,0 +1,1 @@
+data ingestion için ilk satır yazıldı
